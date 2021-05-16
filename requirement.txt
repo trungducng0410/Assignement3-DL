@@ -1,0 +1,6 @@
+streamlit
+opencv-contrib-python-headless
+tensorFlow
+deepface
+numpy
+opencv-python
