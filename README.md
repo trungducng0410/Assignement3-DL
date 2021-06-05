@@ -14,3 +14,6 @@ Run app
 ```bash
 streamlit run app.py
 ```
+
+Model link: https://drive.google.com/file/d/1EwuIRp64hTGq4Lwm2CDKeJKAfRmGBiuV/view?usp=sharing  
+Download model then unzip into "model" folder
